@@ -19,6 +19,9 @@ const usuariosPost = (req, res = response) => {
 }
 
 const usuariosPut = (req, res = response) => {
+
+    
+
     res.json({
         msg: 'put api - controlador'
     })
